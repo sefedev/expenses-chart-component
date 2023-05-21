@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Expenses Chart Component Screen](../screenshot.png)
+![Expenses Chart Component Screen](./public/screenshot.png)
 
 
 ### Links
